@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ShapeAreaCalculator\ShapeAreaCalculator.Backend\obj\Debug\net8.0\ShapeAreaCalculator.Backend.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ShapeAreaCalculator\ShapeAreaCalculator.Backend\obj\Debug\net8.0\ShapeAreaCalculator.Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ShapeAreaCalculator\ShapeAreaCalculator.Backend\obj\Debug\net8.0\ShapeAreaCalculator.Backend.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ShapeAreaCalculator\ShapeAreaCalculator.Backend\obj\Debug\net8.0\ShapeAreaCalculator.Backend.AssemblyInfo.cs
+C:\Users\user\source\repos\ShapeAreaCalculator\ShapeAreaCalculator.Backend\obj\Debug\net8.0\ShapeAreaCalculator.Backend.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ShapeAreaCalculator\ShapeAreaCalculator.Backend\bin\Debug\net8.0\ShapeAreaCalculator.Backend.deps.json
+C:\Users\user\source\repos\ShapeAreaCalculator\ShapeAreaCalculator.Backend\bin\Debug\net8.0\ShapeAreaCalculator.Backend.dll
+C:\Users\user\source\repos\ShapeAreaCalculator\ShapeAreaCalculator.Backend\bin\Debug\net8.0\ShapeAreaCalculator.Backend.pdb
+C:\Users\user\source\repos\ShapeAreaCalculator\ShapeAreaCalculator.Backend\bin\Debug\net8.0\ShapeAreaCalculator.Common.dll
+C:\Users\user\source\repos\ShapeAreaCalculator\ShapeAreaCalculator.Backend\bin\Debug\net8.0\ShapeAreaCalculator.Common.pdb
+C:\Users\user\source\repos\ShapeAreaCalculator\ShapeAreaCalculator.Backend\obj\Debug\net8.0\ShapeAre.D9D846A9.Up2Date
+C:\Users\user\source\repos\ShapeAreaCalculator\ShapeAreaCalculator.Backend\obj\Debug\net8.0\ShapeAreaCalculator.Backend.dll
+C:\Users\user\source\repos\ShapeAreaCalculator\ShapeAreaCalculator.Backend\obj\Debug\net8.0\refint\ShapeAreaCalculator.Backend.dll
+C:\Users\user\source\repos\ShapeAreaCalculator\ShapeAreaCalculator.Backend\obj\Debug\net8.0\ShapeAreaCalculator.Backend.pdb
+C:\Users\user\source\repos\ShapeAreaCalculator\ShapeAreaCalculator.Backend\obj\Debug\net8.0\ref\ShapeAreaCalculator.Backend.dll

@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "ShapeAreaCalculator.Controllers.ShapeAreaCalculatorController",
+    "Method": "CalculateArea",
+    "RelativePath": "ShapeAreaCalculator",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shapeParams",
+        "Type": "System.Collections.Generic.List\u00601[[System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
